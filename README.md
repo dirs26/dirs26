@@ -2,7 +2,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ================================================================================================================================
 
 
-- 👨‍💻 I’m currently studying **Master of Computer Applications**
+- 👨‍💻 I’m currently studying a **Master of Computer Applications**
 
 - 🥽 I’m currently learning **C at 42 Madrid**
 
